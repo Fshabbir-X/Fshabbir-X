@@ -1,6 +1,16 @@
-# 💫 About Me:
-🔭 <b>I’m currently working on<b><br><br>Building a strong foundation in Computer Science<br><br>Hands-on projects in Python, Java, and problem-solving<br><br>Preparing for a future specialization in Cybersecurity<br><br>🤝 <b>I’m looking to collaborate on<b><br><br>Beginner–intermediate open-source projects<br><br>Cybersecurity-related tools, scripts, or learning projects<br><br>University-level CS projects (algorithms, systems, security)<br><br>🫱 <b>I’m looking for help with<b><br><br>Real-world cybersecurity roadmaps and certifications<br><br>Capture The Flag (CTF) challenges and security labs<br><br>Best practices for internships and industry-based learning<br><br>🌱 <b>I’m currently learning<b><br><br>Data Structures & Algorithms<br><br>Object-Oriented Programming<br><br>Networking fundamentals & cybersecurity basics<br><br>💬 <b>Ask me about<b><br><br>Computer Science foundations<br><br>Student life at Monash University Malaysia<br><br>Transitioning from foundation studies to a CS degree<br><br>⚡ Fun fact<br><br>I’m highly disciplined and goal-driven, aiming to combine academic excellence with practical cybersecurity skills
+# 💫 About Me
 
+🔭 **Currently:** Building a strong foundation in Computer Science with hands-on projects in Python, Java, and problem-solving. Preparing for a future specialization in Cybersecurity.
+
+🤝 **Looking to collaborate on:** Open-source projects, cybersecurity tools, and university-level CS projects (algorithms, systems, security).
+
+🫱 **Seeking guidance with:** Cybersecurity roadmaps, CTF challenges, and internship best practices.
+
+🌱 **Currently learning:** Data Structures & Algorithms, Object-Oriented Programming, Networking & Security basics.
+
+💬 **Ask me about:** CS fundamentals, student life at Monash Malaysia, and transitioning from foundation studies to a CS degree.
+
+⚡ **Fun fact:** Highly disciplined and goal-driven, combining academic excellence with practical cybersecurity skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mrshabbir) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Mysterious_Grocery46/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32115006/muhammad-fahad-shabbir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Fshabbir_X) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadshabbir09@yahoo.com) 
