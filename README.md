@@ -12,7 +12,7 @@
 
 ⚡ **Fun fact:** Highly disciplined and goal-driven, combining academic excellence with practical cybersecurity skills.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mrshabbir) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Mysterious_Grocery46/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32115006/muhammad-fahad-shabbir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Fshabbir_X) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadshabbir09@yahoo.com) 
 
 # 💻 Tech Stack:
@@ -24,5 +24,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Fshabbir-X&icon=8&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
